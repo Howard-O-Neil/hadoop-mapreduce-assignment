@@ -7,6 +7,8 @@ Write a program to output
 + The game types with lowest average ages
 ## Project specs
 + apache maven 3.8.2
++ amazon corretto 8
++ hadoop 3.3.1
 ## Solutions
 There's 2 way i proposed to solve this
 + Using 1 map-reduce `reducejoin/1-map-reduce`
