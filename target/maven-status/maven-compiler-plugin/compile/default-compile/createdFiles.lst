@@ -1,8 +1,7 @@
-com/hadoop_job2/Job2.class
-com/hadoop_job2/Job2$GametypeReducer.class
-com/hadoop_job1/Job1$ReduceJoinReducer.class
-com/hadoop_job1/Job1.class
-com/hadoop_job2/Job2$GametypeMapper.class
-com/hadoop_job1/Job1$CustsMapper.class
-com/hadoop_job1/Job1$TxnsMapper.class
-com/hadoop_job2/Job2$GametypeReducer$1.class
+com/hadoop_dev/App$CustsMapper.class
+com/hadoop_dev/App$ReduceJoinReducer.class
+com/hadoop_dev/App$GametypeReducer.class
+com/hadoop_dev/App$GametypeMapper.class
+com/hadoop_dev/App$TxnsMapper.class
+com/hadoop_dev/App$GametypeReducer$1.class
+com/hadoop_dev/App.class
