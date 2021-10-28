@@ -1,1 +1,2 @@
-/home/howard/project/hadoop/docker-setup/namenode-data/nn3/src/reduce_join/src/main/java/com/hadoop_dev/App.java
+/home/howard/project/hadoop/docker-setup/namenode-data/nn3/src/reduce_join/src/main/java/com/hadoop_job2/Job2.java
+/home/howard/project/hadoop/docker-setup/namenode-data/nn3/src/reduce_join/src/main/java/com/hadoop_job1/Job1.java
